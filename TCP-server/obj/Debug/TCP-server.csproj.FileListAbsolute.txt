@@ -1,0 +1,12 @@
+D:\uni\Основы инженерии\TCP-server\TCP-server\bin\Debug\TCP-server.exe.config
+D:\uni\Основы инженерии\TCP-server\TCP-server\bin\Debug\TCP-server.exe
+D:\uni\Основы инженерии\TCP-server\TCP-server\bin\Debug\TCP-server.pdb
+D:\uni\Основы инженерии\TCP-server\TCP-server\bin\Debug\SimpleTCP.dll
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP-server.csprojAssemblyReference.cache
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP_server.Form1.resources
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP_server.Properties.Resources.resources
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP-server.csproj.GenerateResource.cache
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP-server.csproj.CoreCompileInputs.cache
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP-server.csproj.CopyComplete
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP-server.exe
+D:\uni\Основы инженерии\TCP-server\TCP-server\obj\Debug\TCP-server.pdb
